@@ -1,0 +1,2 @@
+subir la base de datos a mariadb con el nombre de crudphp
+poner el proyecto en el www del servidor 
